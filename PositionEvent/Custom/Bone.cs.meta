@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d8a2538ade584b140b8c554f247fa36b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boneSound: {fileID: 6329959851522084588, guid: 942e70d990b5a3e4b8c060ceaaa4866f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

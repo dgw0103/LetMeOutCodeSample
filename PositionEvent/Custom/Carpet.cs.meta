@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 933fa9525bf586b41a6587c708db73ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carpetSound: {fileID: 6960375442810052185, guid: c5714e4e9d08f5747b260cbcf8c76770,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

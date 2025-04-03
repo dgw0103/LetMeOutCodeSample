@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 73d434f09e0ff2649a2d33a25189f078
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - woodCreakSound: {fileID: 1413058319031842614, guid: 8626d02e3d72b2a4b9d880914f879f59,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

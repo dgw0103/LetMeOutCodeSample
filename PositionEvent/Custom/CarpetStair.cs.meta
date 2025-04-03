@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e300aab5a6452464d8147dbe8e5ca402
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carpetSound: {fileID: 6960375442810052185, guid: c5714e4e9d08f5747b260cbcf8c76770,
+      type: 3}
+  - woodCreakSound: {fileID: 1413058319031842614, guid: 8626d02e3d72b2a4b9d880914f879f59,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

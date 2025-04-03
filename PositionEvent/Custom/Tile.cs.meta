@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9f48cc13be70a4346a44a9273021fa52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileSound: {fileID: 1275477022596135826, guid: d5955cd09e62ab249ad6cc7e5509ab12,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

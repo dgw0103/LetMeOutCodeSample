@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea813ce287fd07c4e87f47e60eae5e5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zoomInOutActionReference: {fileID: -9209628027454726026, guid: 420f7a57ef4bc3f45aafd7ead530a177,
+      type: 3}
+  - pressingCheckingActionReference: {fileID: -9209628027454726026, guid: 420f7a57ef4bc3f45aafd7ead530a177,
+      type: 3}
+  - rotationActionReference: {fileID: -1190804147747338391, guid: 420f7a57ef4bc3f45aafd7ead530a177,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
